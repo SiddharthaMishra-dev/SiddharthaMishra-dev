@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently learning computer science and engineering.
-I know little bit about C++ and currently learning php.
+I know little bit about C++ and currently learning python.
