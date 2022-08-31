@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
+</div>
+
+
+
+
 ### Hi there 👋
 
 <!--
@@ -17,4 +24,6 @@ Here are some ideas to get you started:
 I'm currently learning computer science and engineering.
 Frontend web developer.
 Learning Full Stack web development.
+
+[![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthaMishra-dev)](https://github.com/SiddharthaMishra-dev/github-readme-stats)
 
