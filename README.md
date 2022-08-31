@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently learning computer science and engineering.
-I know little bit about C++ and currently learning python.
+Frontend web developer.
+Learning Full Stack web development.
+
