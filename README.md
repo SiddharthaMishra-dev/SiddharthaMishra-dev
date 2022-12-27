@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Frontend web developer.
+#### Works on Frontend web development.
 
 #### Learning Full Stack web development.
 
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 
 
-### 🌱 I’m currently learning Full Stack Web development.
 ### 👯 I’m looking to collaborate on Web Developement Projects.
 ### Languages and Frameworks
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
