@@ -42,7 +42,8 @@ Here are some ideas to get you started:
   
   <br>
   <img src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/>
- 
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=vision-friendly-dark)
   </div>
 
  
