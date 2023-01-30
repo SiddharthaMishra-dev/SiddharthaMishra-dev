@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>&nbsp;
 
   
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=dark)](https://git.io/streak-stats)
   <br>
   <img src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/>
   
