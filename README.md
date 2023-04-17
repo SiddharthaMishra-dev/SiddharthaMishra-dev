@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
   
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra-dev&theme=react&langs_count=5&layout=compact" />  
-<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=dark)](https://git.io/streak-stats) -->
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=dark)](https://git.io/streak-stats)
   <br>
   <img src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/>
   
