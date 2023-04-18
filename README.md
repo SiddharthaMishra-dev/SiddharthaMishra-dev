@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   <br>
   <img src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/>
   
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats)
-  
+ [![SiddharthaMishra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats)
+    
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=vision-friendly-dark)
   </div>
