@@ -47,8 +47,10 @@ Here are some ideas to get you started:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=dark)](https://git.io/streak-stats)
   <br>
   <img src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra&theme=react&langs_count=5" />
   
- [![SiddharthaMishra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![SiddharthaMishra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats) -->
     
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=vision-friendly-dark)
