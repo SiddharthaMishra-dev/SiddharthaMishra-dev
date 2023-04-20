@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Works on Frontend web development</h1>
 
+
+
 <h1 align="center">Learning Full Stack web development</h1>
   
 <h1 align="center">Tech Enthusiast</h1>
@@ -43,16 +45,19 @@ Here are some ideas to get you started:
           
 
   
-
+  
+  
+  <br>
+  
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=dark)](https://git.io/streak-stats)
   <br>
-  <img src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra&theme=react&langs_count=5&layout=compact" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra&theme=react&langs_count=5" />
   
-<!--  [![SiddharthaMishra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats) -->
-    
+  <img margin="auto" src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/> 
   
+<!--  [![SiddharthaMishra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats) -->  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=vision-friendly-dark)
   </div>
 
