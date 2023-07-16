@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddharthaMishra-dev&count_private=true&show_icons=true&theme=calm)
+ 
   
 </div>
 
@@ -65,6 +65,8 @@ Here are some ideas to get you started:
   
 <!--  [![SiddharthaMishra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats) -->  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=vision-friendly-dark)
+
+   ![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddharthaMishra-dev&count_private=true&show_icons=true&theme=calm)
   </div>
 
  
