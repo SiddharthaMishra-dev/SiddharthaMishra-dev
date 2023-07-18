@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   <br>
   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=react)](https://git.io/streak-stats)
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra&theme=react&langs_count=5&layout=compact" />
   <br>
@@ -64,9 +64,9 @@ Here are some ideas to get you started:
   <img margin="auto" src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/> 
   
 <!--  [![SiddharthaMishra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra)](https://github.com/anuraghazra/github-readme-stats) -->  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=react)
 
-   ![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddharthaMishra-dev&count_private=true&show_icons=true&theme=calm)
+   ![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddharthaMishra-dev&count_private=true&show_icons=true&theme=react)
   </div>
 
  
