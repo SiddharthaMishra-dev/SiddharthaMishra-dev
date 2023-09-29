@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There 👋</h1>
+<h1>Hi There 👋</h1>
 
 <!--
 **Sid-190601/Sid-190601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,25 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Works on Frontend web development</h1>
+<h1 >Works on Frontend web development</h1>
 
+<h1 >Learning Full Stack web development</h1>
 
+<h2 >I’m looking to collaborate on Web Developement Projects</h2>
 
-<h1 align="center">Learning Full Stack web development</h1>
-  
-<h1 align="center">Tech Enthusiast</h1>
+<img margin="auto" src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/> 
 
-
-
-<h2 align="center">👯 I’m looking to collaborate on Web Developement Projects</h2>
-
-<div align="center">
-  
- 
-  
-</div>
-
-<div align="center">
+<div >
   <h2>Languages and Frameworks</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -48,27 +38,36 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />&nbsp;
+  </div>
 
           
 
   
   
   
-  <br>
   
   
-  <img margin="auto" src="https://komarev.com/ghpvc/?username=SiddharthaMishra-dev&style=flat-square&color=blue" alt=""/> 
+  
+  
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=react)
-  <br>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=react)](https://git.io/streak-stats)
-  <br>
+  
+   ## Top Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaMishra-dev&layout=compact&theme=react"/>
+
+  
+   ## Streak
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=SiddharthaMishra-dev&theme=react" />
+ 
+  ## Wakatime
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SiddharthaMishra&theme=react&langs_count=5&layout=compact" />
-  <br>
-   ![](https://github-contributor-stats.vercel.app/api?username=SiddharthaMishra-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-   <br>
-   ![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddharthaMishra-dev&count_private=true&show_icons=true&theme=react)
-  </div>
+
+  ## Contributions
+  <img src="https://github-contributor-stats.vercel.app/api?username=SiddharthaMishra-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+  ## Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthaMishra-dev&count_private=true&show_icons=true&theme=react"/>
+
+
 
  
 
